@@ -1,0 +1,8 @@
+
+{
+  "name": "LynxAudit: Linux PrivEsc Toolkit",
+  "description": "A professional cybersecurity dashboard for auditing Linux systems, featuring a Python-based detection engine and AI-driven security analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
